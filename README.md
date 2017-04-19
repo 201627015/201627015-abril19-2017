@@ -1,7 +1,10 @@
-#archivo > ps -A | wc -c archivo
+Primer Ejercicio:
 
-#Al cuadrado: 
+archivo > ps -A | wc -c archivo
 
-#export vari=2 
-#export cuadrado=$((vari**4))
-#echo $cuadrado
+Segundo Ejercicio:
+```
+export vari=2 
+export cuadrado=$((vari**4))
+echo $cuadrado
+```
